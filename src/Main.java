@@ -1,15 +1,4 @@
-import com.google.gson.FieldAttributes;
-import com.google.gson.FieldNamingPolicy;
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-import org.apache.commons.io.IOUtils;
 
-import java.io.IOException;
-import java.net.URI;
-import java.net.URL;
-import java.net.http.HttpClient;
-import java.net.http.HttpRequest;
-import java.net.http.HttpResponse;
 import java.util.Scanner;
 
 
